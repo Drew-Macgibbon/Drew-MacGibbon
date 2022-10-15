@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Drew! 
+# 👋 Hello, I'm Drew! 
 
 I believe that my wealth of knowledge will be immensely valuable for any development team, especially if you’re using Vue and are a small to medium size business.
 
@@ -20,8 +20,8 @@ If we form a long-term working relationship I’d be happy to help you scale you
 
 Along with my business expertise, I use the following development technologies:
 
-### Expert in:
----
+## Expert in:
+
 ⚡ Payments – Stripe  
 ⚡ Hosting – DigitalOcean | Cloudflare | Render | Heroku  
 ⚡ Languages – Typescript | Javascript | GraphQL  
@@ -33,21 +33,21 @@ Along with my business expertise, I use the following development technologies:
 ⚡ CMS / API – Directus | Hasura | Strapi | Appwrite (Rest / GraphQL)  
 ⚡ Rendering Method  – SPA | SSR | SSG  
 
-### Confident With:
----
+## Confident With:
+
 🐎 Rendering Method  – PWA  
 🐎 CMS / API – Ghost CMS  
 🐎 Websockets – Socket.io  
 
-### Basic Knowledge:
----
+## Basic Knowledge:
+
 🐌 Languages – SQL  
 🐌 Auth – Passbook | Ory | Logto  
 🐌 Web Servers – Nginx  
 🐌 Frameworks – React | Astro.js  
 
-### Learning:
----
+## Learning:
+
 📖 Languages: Dart  | Solidity | Golang | Lisp  
 📖 Frameworks – Flutter | Polygon  
 
