@@ -15,8 +15,8 @@ export default function RootLayout({
             <Link href="/">
               Home
             </Link>
-            <Link href="/notes">
-              Notes
+            <Link href="/pocket">
+              Pocket
             </Link>
           </nav>
           {children}
