@@ -2,7 +2,9 @@
 
 I believe that my wealth of knowledge will be immensely valuable for any development team, especially if you’re using Vue and are a small to medium size business.
 
-![Drew's Github stats](https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true)
+![Drew's Github stats](https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true&theme=transparent )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 My strength is my diverse experience in business/full-stack development/marketing & design which allows me to develop products/features from a business-first angle. Why do I say this?
