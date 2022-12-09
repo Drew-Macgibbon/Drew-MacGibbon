@@ -9,6 +9,16 @@ I believe that my wealth of knowledge will be immensely valuable for any develop
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon)
 </div>
 
+<div align="center">
+  <div style="display: flex;">
+    <img
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"
+         style="vertical-align: top;"
+       />
+    <img src="https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+
 
 My strength is my diverse experience in business/full-stack development/marketing & design which allows me to develop products/features from a business-first angle. Why do I say this?
 
