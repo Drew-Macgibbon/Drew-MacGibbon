@@ -5,17 +5,17 @@ I believe that my wealth of knowledge will be immensely valuable for any develop
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon)
 
 <div style="display: flex; flex-direction: row;">
- ![Drew's Github stats](https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true&theme=transparent )
+ ![Drew's Github stats](https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon& )
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon)
 </div>
 
 <div align="center">
   <div style="display: flex;">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&ignore=dart&theme=transparent"
          style="vertical-align: top;"
        />
-    <img src="https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true&theme=transparent" />
   </div>
 </div>
 
