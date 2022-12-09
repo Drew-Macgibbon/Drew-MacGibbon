@@ -1,40 +1,46 @@
-<div align="center">
-  <div style="display: flex; flex-direction="row"; align-items: stretch; width: 100%; height: 320px;">
-    <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&hide=dart&theme=transparent"
-       />
-    <img 
-         src="https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true&theme=transparent"
-         style="flex: 1;"
-         />
-  </div>
-</div>
+<h1 align="center">👋 Hello, I'm Drew! </h1>
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1244118911)
-    
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-        stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
-  </td>
-  <td width="50%">
+ <a href="https://github.com/Drew-Macgibbon/github-readme-streak-stats" align="center">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Drew MacGibbon's streak" src="https://streak-stats.demolab.com/?user=Drew-Macgibbon" />
+</a>
+ 
+ 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-&nbsp;<p align="center">This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
-[![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+I believe that my wealth of knowledge will be immensely valuable for any development team, especially if you’re using Vue and are a small to medium size business.
 
-  </p>
-  </td>
-</table>
+My strength is my diverse experience in business/full-stack development/marketing & design which allows me to develop products/features from a business-first angle. Why do I say this?
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Drew-Macgibbon)](https://git.io/streak-stats)
+- ✔ For 10 years I’ve been working on startups, including many of my own.
+- ✔ For the past 4 years I’ve been working as a Full-Stack Developer.
+- ✔ I’m currently the CEO of one company, and CTO of another that’s funded.
+- ✔ I have extensive Open Source knowledge, which should save you money!
+- ✔ Every day I learn new skills improving my ability to create better products. 
+ 
+With this experience comes the ability to communicate clearly what needs to be done and explain my thinking behind it. I’m not afraid to challenge your ideas if I think I have a better solution, but happy to admit when your idea is better.
+
+I’m currently living in India as I scale my own businesses, this is why I’m seeking some extra funds. It’s also because of this that I’m able to offer my services at an extremely competitive rate.
+
+I’m happy to provide my services on a consultant basis or as a developer/business development expert for up to 30 hours per week.
+
+If we form a long-term working relationship I’d be happy to help you scale your business with cost-effective Indian talent. 
+ 
+ 
+ [![Mac's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Drew-Macgibbon&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ ### 💻 GitHub Profile Stats
+
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mac's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Drew-Macgibbon&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" height="192px"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-stats"><img alt="Drew MacGibbon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&langs_count=8&layout=compact&theme=transparent?hide=dart" height="192px"/></a>
+  <br/>
 
 **Languages and Tools:** 
 
@@ -68,26 +74,6 @@ Vue           2 hrs 11 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
-
-# 👋 Hello, I'm Drew! 
-
-I believe that my wealth of knowledge will be immensely valuable for any development team, especially if you’re using Vue and are a small to medium size business.
-
-My strength is my diverse experience in business/full-stack development/marketing & design which allows me to develop products/features from a business-first angle. Why do I say this?
-
-- ✔ For 10 years I’ve been working on startups, including many of my own.
-- ✔ For the past 4 years I’ve been working as a Full-Stack Developer.
-- ✔ I’m currently the CEO of one company, and CTO of another that’s funded.
-- ✔ I have extensive Open Source knowledge, which should save you money!
-- ✔ Every day I learn new skills improving my ability to create better products. 
- 
-With this experience comes the ability to communicate clearly what needs to be done and explain my thinking behind it. I’m not afraid to challenge your ideas if I think I have a better solution, but happy to admit when your idea is better.
-
-I’m currently living in India as I scale my own businesses, this is why I’m seeking some extra funds. It’s also because of this that I’m able to offer my services at an extremely competitive rate.
-
-I’m happy to provide my services on a consultant basis or as a developer/business development expert for up to 30 hours per week.
-
-If we form a long-term working relationship I’d be happy to help you scale your business with cost-effective Indian talent. 
 
 Along with my business expertise, I use the following development technologies:
 
@@ -195,33 +181,4 @@ Along with my business expertise, I use the following development technologies:
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
-
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/Drew-Macgibbon/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/Drew-Macgibbon/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Drew MacGibbon's streak" src="https://streak-stats.demolab.com/?user=Drew-Macgibbon&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/Drew-Macgibbon/github-readme-stats -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-stats"><img alt="Drew MacGibbon's Github Stats" src="https://ashutosh00710-github-readme-stats.vercel.app/api/?username=Drew-Macgibbon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/ashutosh00710/github-readme-stats"><img alt="Drew MacGibbon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&langs_count=8&layout=compact&theme=transparent?hide=dart" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 </details>
