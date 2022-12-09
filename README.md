@@ -12,8 +12,8 @@ I believe that my wealth of knowledge will be immensely valuable for any develop
 <div align="center">
   <div style="display: flex;">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&ignore=dart&theme=transparent"
-         style="vertical-align: top;"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon&hide=dart&theme=transparent"
+         style="vertical-align: top; height: 100%"
        />
     <img src="https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true&theme=transparent" />
   </div>
