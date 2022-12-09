@@ -3,9 +3,9 @@
 I believe that my wealth of knowledge will be immensely valuable for any development team, especially if you’re using Vue and are a small to medium size business.
 
 
-<div  style="display: flex; align-items: flex-start;">
-![Drew's Github stats](https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true&theme=transparent )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ ![Drew's Github stats](https://github-readme-stats.vercel.app/api?username=Drew-Macgibbon&count_private=true&theme=transparent )
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Macgibbon)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
