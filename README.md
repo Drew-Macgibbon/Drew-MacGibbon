@@ -7,28 +7,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Drew-Macgibbon/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Drew MacGibbon's streak" src="https://streak-stats.demolab.com/?user=Drew-Macgibbon" />
-</a>
+</p>
+<p align="center">
+  <img title="Last 30 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac" />
 </p>
 
-## Coding time in the last month
-<!--START_SECTION:waka-->
-
-```text
-From: 10 November 2022 - To: 10 December 2022
-
-Total Time: 3 hrs 1 min
-
-Markdown     1 hr 39 mins    █████████████▓░░░░░░░░░░░   55.22 %
-JSON         28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Vue.js       25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-INI          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-TypeScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-```
-
-<!--END_SECTION:waka--> 
  
 &nbsp;&nbsp;
 &nbsp;&nbsp;
