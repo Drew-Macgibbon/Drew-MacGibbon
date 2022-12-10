@@ -14,6 +14,20 @@
 
 ## Coding time in the last month
 <!--START_SECTION:waka-->
+
+```text
+From: 10 November 2022 - To: 10 December 2022
+
+Total Time: 3 hrs 1 min
+
+Markdown     1 hr 39 mins    █████████████▓░░░░░░░░░░░   55.22 %
+JSON         28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Vue.js       25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+INI          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+TypeScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+```
+
 <!--END_SECTION:waka--> 
  
 &nbsp;&nbsp;
