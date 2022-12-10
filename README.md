@@ -12,24 +12,11 @@
 </a>
 </p>
 
-#### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
-![GitHub Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMac&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
-
+## Coding time in the last month
 <!--START_SECTION:waka-->
-
-```text
-Vue               53 hrs 38 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.09 %
-TypeScript        11 hrs 12 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.92 %
-Javascript        8 hrs 57 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.52 %
-CSS               4 hrs 15 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.52 %
-Python            2 hrs 15 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.40 %
-TSX               2 hrs 11 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.33 %
-```
-
 <!--END_SECTION:waka-->
 
- 
+![GitHub Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DMac&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact) 
  
 &nbsp;&nbsp;
 &nbsp;&nbsp;
