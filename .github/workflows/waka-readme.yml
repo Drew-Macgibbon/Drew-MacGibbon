@@ -10,11 +10,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TOTAL_CODE_TIME: true
           SHOW_MASKED_TIME: true
