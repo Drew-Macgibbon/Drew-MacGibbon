@@ -26,20 +26,21 @@
   </p>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 &nbsp;&nbsp;
 <p align="center">
-  <img title="Last 30 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac" />
+  <img title="Last 30 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac?calout=compact" />
 </p>
 
 
- 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
 I believe that my wealth of knowledge will be immensely valuable for any development team, especially if you’re using Vue and are a small to medium size business.
 
 My strength is my diverse experience in business/full-stack development/marketing & design which allows me to develop products/features from a business-first angle. Why do I say this?
-
 
  
 With this experience comes the ability to communicate clearly what needs to be done and explain my thinking behind it. I’m not afraid to challenge your ideas if I think I have a better solution, but happy to admit when your idea is better.
