@@ -14,6 +14,10 @@
 
 &nbsp;&nbsp;
 
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue) + 3 years untracked
+
+&nbsp;&nbsp;
+
 📅 **I'm Most Productive on Sundays** 
 
 ```text
