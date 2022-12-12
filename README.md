@@ -29,11 +29,12 @@
 </div>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 &nbsp;&nbsp;
 <p align="center">
-  <img title="Last 30 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac?calout=compact" />
+  <img title="Last 30 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac" />
 </p>
 
 
