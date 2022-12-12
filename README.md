@@ -31,12 +31,9 @@
   </p>
 </div>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 &nbsp;&nbsp;
-<h3 align="center"Last 7 Days </h3>
+&nbsp;&nbsp;
+<h3 align="center">Last 7 Days </h3>
 <p align="center">
   <img title="Last 7 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac" />
 </p>
