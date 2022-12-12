@@ -1,16 +1,19 @@
 <h1 align="center">👋 Hello, I'm Drew! </h1>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Vue](https://img.shields.io/badge/-Vue3-black?logo=graphql&style=vue3)&nbsp;&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt-black?logo=graphql&style=nuxt3)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sql&style=social)&nbsp;&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?logo=graphql&style=social)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?logo=tailwindcss&style=social)&nbsp;&nbsp;
+<!--  uses logos from https://simpleicons.org/ -->
+<p align="center">
+  <img title="Javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social" />
+  <img title="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social" />
+  <img title="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" />
+  <img title="C" src="https://img.shields.io/badge/-C-black?logo=c&style=social" />
+  <img title="Vue3" src="https://img.shields.io/badge/-Vue-black?logo=vuedotjs&style=social" />
+  <img title="Nuxt3" src="https://img.shields.io/badge/-Nuxt-black?logo=nuxtdotjs&style=social" />
+  <img title="SQL" src="https://img.shields.io/badge/-SQL-black?logo=sql&style=social" />
+  <img title="GraphQL" src="https://img.shields.io/badge/-GraphQL-black?logo=graphql&style=social" />
+  <img title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social" />
+  <img title="Redis" src="https://img.shields.io/badge/-Redis-black?logo=redis&style=social" />
+  <img title="Tailwind" src="https://img.shields.io/badge/-Tailwind-black?logo=tailwindcss&style=social" />  
+</p>
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
@@ -33,8 +36,9 @@
 <!--END_SECTION:waka-->
 
 &nbsp;&nbsp;
+<h3 align="center"Last 7 Days </h3>
 <p align="center">
-  <img title="Last 30 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac" />
+  <img title="Last 7 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac" />
 </p>
 
 
