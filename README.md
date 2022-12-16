@@ -4,7 +4,7 @@
 <p align="center">
   <img title="Javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social" />
   <img title="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social" />
-  <img title="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" />
+<!--   <img title="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" /> -->
   <img title="C" src="https://img.shields.io/badge/-C-black?logo=c&style=social" />
   <img title="Vue3" src="https://img.shields.io/badge/-Vue-black?logo=vuedotjs&style=social" />
   <img title="Nuxt3" src="https://img.shields.io/badge/-Nuxt-black?logo=nuxtdotjs&style=social" />
