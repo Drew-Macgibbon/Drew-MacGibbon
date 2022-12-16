@@ -44,13 +44,10 @@
 
 I believe that my wealth of knowledge will be immensely valuable for any development team, especially if you’re using Vue and are a small to medium size business.
 
-My strength is my diverse experience in business/full-stack development/marketing & design which allows me to develop products/features from a business-first angle. Why do I say this?
-
+My strength is my diverse experience in business/full-stack development/marketing & design which allows me to develop products/features from a business-first angle.
  
 With this experience comes the ability to communicate clearly what needs to be done and explain my thinking behind it. I’m not afraid to challenge your ideas if I think I have a better solution, but happy to admit when your idea is better.
 
-I’m currently living in India as I scale my own businesses, this is why I’m seeking some extra funds. It’s also because of this that I’m able to offer my services at an extremely competitive rate.
+I’m currently living in India freelancing to fund my own business ventures. Because of this, I’m able to offer my services at an extremely competitive rate.
 
 If we form a long-term working relationship I’d be happy to help you scale your business with cost-effective Indian talent. 
-
-**Languages and Tools:** 
