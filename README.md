@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Drew! </h1>
+<h1 align="center">👋 Hello, I'm Mac! </h1>
 
 <!--  uses logos from https://simpleicons.org/ -->
 <p align="center">
