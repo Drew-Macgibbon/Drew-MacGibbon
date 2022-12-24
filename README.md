@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20of%20startup%20experience;Active%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20plus%20of%20startup%20experience;Active%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 &nbsp;&nbsp;
