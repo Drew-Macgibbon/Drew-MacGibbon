@@ -24,20 +24,19 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20plus%20of%20startup%20experience;Active%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
+**I am a Vue / Nuxt / Typescript / Supabase expert** with full-stack capabilities and a background in business. I've been using Nuxt 3 in all my development projects since the first release candidate was released. I've moved to India, started my development company and am in the process of finding projects/hiring a team.
+
+## I am looking for work
+
+Ideally, I am looking for **long-term partnerships** where I can assist non-technical founders with bringing their vision to life, helping them to scale a team with cost-effective Indian talent that I can manage in person. I am open to once-off projects if I can choose the technology stack, and you provide designs.
+
 &nbsp;&nbsp;
 <div align="center">
   <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Drew MacGibbon's streak" src="https://streak-stats.demolab.com/?user=Drew-Macgibbon" />
   </p>
 </div>
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-<h3 align="center">Last 7 Days </h3>
-<p align="center">
-  <img title="Last 7 days" alt="Mac's monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DMac" />
-</p>
-
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
