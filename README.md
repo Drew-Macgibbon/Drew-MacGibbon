@@ -4,11 +4,11 @@
 <p align="center">
   <img title="Javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social" />
   <img title="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social" />
-<!--   <img title="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" /> -->
   <img title="C" src="https://img.shields.io/badge/-C-black?logo=c&style=social" />
   <img title="Vue3" src="https://img.shields.io/badge/-Vue-black?logo=vuedotjs&style=social" />
   <img title="Nuxt3" src="https://img.shields.io/badge/-Nuxt-black?logo=nuxtdotjs&style=social" />
   <img title="SQL" src="https://img.shields.io/badge/-SQL-black?logo=sql&style=social" />
+  <img src="https://img.shields.io/badge/SQL--black" />
   <img title="GraphQL" src="https://img.shields.io/badge/-GraphQL-black?logo=graphql&style=social" />
   <img title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social" />
   <img title="Redis" src="https://img.shields.io/badge/-Redis-black?logo=redis&style=social" />
@@ -19,9 +19,9 @@
 &nbsp;&nbsp;
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20plus%20of%20startup%20experience;Active%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20plus%20of%20startup%20experience;Experienced%20As%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
