@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20plus%20of%20startup%20experience;Experienced%20As%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20plus%20of%20startup%20experience;Experienced%20As%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=false&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -29,9 +29,11 @@
 
 Ideally, I am looking for **long-term partnerships** where I can assist founders with bringing their vision to life, helping them to scale a team with cost-effective Indian talent that I can manage in person. I am open to once-off projects if I can choose the technology stack, and you provide designs.
 
+I'm a life-long learner and aim to upskill my development knowldege on a daily basis. This could be in the form of research, learning a new technology, browsing GitHub, using ChatGPT, working on personal projects, and testing my knowledge with coding challenges. Because of this I am up to date with all the current developments in my chosen stack and aware of most libraries and technologies required to build a modern application.
+
 &nbsp;&nbsp;
-<div align="center">
-  <p align="center">
+<div align="left">
+  <p align="left">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Drew MacGibbon's streak" src="https://streak-stats.demolab.com/?user=Drew-Macgibbon" />
   </p>
 </div>
