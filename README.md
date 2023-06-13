@@ -7,7 +7,6 @@
   <img title="C" src="https://img.shields.io/badge/-C-black?logo=c&style=social" />
   <img title="Vue3" src="https://img.shields.io/badge/-Vue-black?logo=vuedotjs&style=social" />
   <img title="Nuxt3" src="https://img.shields.io/badge/-Nuxt-black?logo=nuxtdotjs&style=social" />
-  <img title="SQL" src="https://img.shields.io/badge/SQL--black?logo=sql&style=social" />
   <img title="GraphQL" src="https://img.shields.io/badge/-GraphQL-black?logo=graphql&style=social" />
   <img title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social" />
   <img title="Redis" src="https://img.shields.io/badge/-Redis-black?logo=redis&style=social" />
