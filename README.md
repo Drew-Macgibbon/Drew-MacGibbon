@@ -27,7 +27,7 @@
 
 ## I am open to work collaborations
 
-Ideally, I am looking for **long-term partnerships** where I can assist founders with bringing their vision to life, helping them to scale a team with cost-effective Indian talent that I can manage in person. I am open to once-off projects if I can choose the technology stack, and you provide designs.
+Ideally, I am looking for **long-term partnerships** where I can assist founders with bringing their vision to life, helping them to scale a team with cost-effective Indian talent that I can manage in person. I am open to once-off projects if you are flexible on the technology stack, and provide designs.
 
 I'm a life-long learner and aim to upskill my development knowldege on a daily basis. This could be in the form of research, learning a new technology, browsing GitHub, using ChatGPT, working on personal projects, and testing my knowledge with coding challenges. Because of this I am up to date with all the current developments in my chosen stack and aware of most libraries and technologies required to build a modern application.
 
