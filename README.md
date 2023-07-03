@@ -23,13 +23,14 @@
 ## Links about me
 - [Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
 
-**I am a Vue / Nuxt / Typescript / Supabase expert** with full-stack capabilities and a background in business. I've been using Nuxt 3 in all my development projects since the first release candidate was released. I've moved to India, started my development company and am in the process of finding projects/hiring a team.
+**I am a Vue / Nuxt / Typescript / Supabase expert** with full-stack capabilities and a background in business. I've been using Nuxt 3 in all my development projects since the first release candidate was released. I've moved to India, started my development company, and am in the process of finding projects/hiring a team.
 
 ## I am open to work collaborations
 
-Ideally, I am looking for **long-term partnerships** where I can assist founders with bringing their vision to life, helping them to scale a team with cost-effective Indian talent that I can manage in person. I am open to once-off projects if you are flexible on the technology stack, and provide designs.
+Ideally, I'm looking for **long-term partnerships** to help founders bring their vision to life, scaling a team around their product with a managed team. 
+I am open to once-off projects if you are flexible on the technology stack, and provide designs.
 
-I'm a life-long learner and aim to upskill my development knowldege on a daily basis. This could be in the form of research, learning a new technology, browsing GitHub, using ChatGPT, working on personal projects, and testing my knowledge with coding challenges. Because of this I am up to date with all the current developments in my chosen stack and aware of most libraries and technologies required to build a modern application.
+I'm a life-long learner and aim to upskill my development knowledge on a daily basis. This could be in the form of research, learning a new technology, browsing GitHub, using ChatGPT, working on personal projects, and testing my knowledge with coding challenges. Because of this, I am up to date with all the current developments in my chosen stack and aware of most libraries and technologies required to build a modern application.
 
 &nbsp;&nbsp;
 <div align="left">
