@@ -1,4 +1,4 @@
-<h1 align="center">👋Welcome, I'm Mac! </h1>
+<h1>👋Welcome, I'm Mac! </h1>
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
