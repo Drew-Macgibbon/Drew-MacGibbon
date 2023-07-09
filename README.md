@@ -20,7 +20,7 @@
 
 **Full-stack vue/nuxt 3 developer living in Manali, India.**
 
-## Links about me
+## Links About Me
 - [Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
 
 **I am a Vue / Nuxt / Typescript / Supabase expert** with full-stack capabilities and a background in business. I've been using Nuxt 3 in all my development projects since the first release candidate was released. I've moved to India, started my development company, and am in the process of finding projects/hiring a team.
