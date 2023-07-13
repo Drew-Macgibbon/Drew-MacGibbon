@@ -1,8 +1,6 @@
 <h1>👋Welcome, I'm Mac! </h1>
 
 &nbsp;&nbsp;
-&nbsp;&nbsp;
-
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -12,7 +10,7 @@
 
 ### My Skills:
 
-<div>
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,css,html,tailwindcss,js,ts,sass,vue,nuxtjs,supabase,postgres,vite&perline=7" /><br/><br/>
   </a>
