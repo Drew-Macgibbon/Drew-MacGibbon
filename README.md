@@ -33,7 +33,7 @@ I'm a life-long learner and aim to upskill my development knowledge on a daily b
 
 &nbsp;&nbsp;
 <div align="left">
-  <p align="left">
+  <p>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Drew MacGibbon's streak" src="https://streak-stats.demolab.com/?user=Drew-Macgibbon" />
   </p>
 </div>
