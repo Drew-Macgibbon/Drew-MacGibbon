@@ -24,7 +24,7 @@
 
 **I am a Vue / Nuxt / Typescript / Supabase expert** with full-stack capabilities and a background in business. I've been using Nuxt 3 in all my development projects since the first release candidate was released. I've moved to India, started my development company, and am in the process of finding projects/hiring a team.
 
-## I am open to work
+## Open to Work
 
 Ideally, I'm looking for **long-term partnerships** to help founders bring their vision to life, scaling a team around their product with a managed team. 
 I am open to once-off projects if you are flexible on the technology stack, and provide designs.
