@@ -18,7 +18,7 @@
 
 **Full-stack vue/nuxt 3 developer living in Manali, India.**
 
-## Links About Me
+## My Links
 - [Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
 - [Portfolio](https://www.incubrain.org/)
 
