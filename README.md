@@ -20,7 +20,6 @@
 
 ## My Links
 - [Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
-- [Portfolio](https://www.incubrain.org/)
 
 **I am a Vue / Nuxt / Typescript / Supabase expert** with full-stack capabilities and a background in business. I've been using Nuxt 3 in all my development projects since the first release candidate was released. I've moved to India, started my development company, and am in the process of finding projects/hiring a team.
 
