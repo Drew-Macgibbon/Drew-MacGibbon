@@ -1,14 +1,8 @@
 <h1>👋Welcome, I'm Mac! </h1>
 
-&nbsp;&nbsp;
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Over%204%20years%20of%20full%20stack%20work;Decade%20plus%20of%20startup%20experience;Experienced%20As%20CEO%20and%20CTO;Expansive%20open-source%20knowledge;Lifelong%20learner&font=Fira%20Code&center=false&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
-
-### My Skills:
+### Business/Nuxt Enthusiast, [Incubrain](https://www.incubrain.org/) Founder
+At Incubrain we help early-stage Nuxt startups with business planning, product development, developer manpower, and coaching.
+**Join our [Discord of Nuxt founders/developers.](https://discord.gg/zSGHvNZXAa)**
 
 <div align="left">
   <a href="https://skillicons.dev">
@@ -16,19 +10,11 @@
   </a>
 </div>
 
-**Full-stack vue/nuxt 3 developer living in Manali, India.**
-
 ## My Links
-- [Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
-
-**I am a Vue / Nuxt / Typescript / Supabase expert** with full-stack capabilities and a background in business. I've been using Nuxt 3 in all my development projects since the first release candidate was released. I've moved to India, started my development company, and am in the process of finding projects/hiring a team.
-
-## Open to Work
-
-Ideally, I'm looking for **long-term partnerships** to help founders bring their vision to life, scaling a team around their product with a managed team. 
-I am open to once-off projects if you are flexible on the technology stack, and provide designs.
-
-I'm a life-long learner and aim to upskill my development knowledge on a daily basis. This could be in the form of research, learning a new technology, browsing GitHub, using ChatGPT, working on personal projects, and testing my knowledge with coding challenges. Because of this, I am up to date with all the current developments in my chosen stack and aware of most libraries and technologies required to build a modern application.
+- [Personal Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
+- [Want To Collaborate?]()
+- [Need Nuxt Developers?]()
+- [Incubrain Program]()
 
 &nbsp;&nbsp;
 <div align="left">
