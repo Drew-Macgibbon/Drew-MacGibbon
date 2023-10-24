@@ -10,11 +10,12 @@ At Incubrain we help early-stage Nuxt startups with business planning, product d
   </a>
 </div>
 
-## My Links
+## Contact Links
+
 - [Personal Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
-- [Want To Collaborate?]()
-- [Need Nuxt Developers?]()
-- [Incubrain Program]()
+- [Want To Collaborate?](https://www.incubrain.org/contact-collaborate)
+- [Need Nuxt Developers?](https://www.incubrain.org/contact-hire-us)
+- [Incubrain Program](https://www.incubrain.org/contact-incubation)
 
 &nbsp;&nbsp;
 <div align="left">
