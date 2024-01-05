@@ -20,7 +20,7 @@
 
 ## Reach Out
 
-- [Personal Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
+- [Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
 - [Email](mac@incubrain.org)
 
 &nbsp;&nbsp;
