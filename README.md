@@ -2,9 +2,11 @@
 
 ### Nuxt 3 Enthusiast & Business Nerd
 
+- 🗺️ New Zealander permanently living in Pune, India.
 - 🌶️ Seasoned Nuxt developer and entrepreneurial thinker with a decade of experience in business and 4 years of crafting web applications. 
-- 💡 I thrive on product development and have a keen eye for detail, dedicating my time to analyzing existing products and strategizing on innovative improvements. 
-- 🚀 I'm on the lookout for dynamic companies seeking a tech partner who brings both coding chops and business strategy.
+- 💡 Product development/strategy lover with a keen eye for detail, seriously, I do this for fun! 
+- 🕹️ Fun = UFC, Cricket, Soccer, Gym, Gaming, Sci-Fi/Fantasy Shows, Nature, and coffee with good people.
+- 🔎 On the lookout for companies seeking a tech partner who brings both coding chops and business/product strategy.
 
 &nbsp;&nbsp;
 
@@ -13,7 +15,9 @@
     <img src="https://skillicons.dev/icons?i=github,css,html,tailwindcss,js,ts,sass,vue,nuxtjs,supabase,postgres,vite&perline=7" /><br/><br/>
   </a>
 </div>
+
 &nbsp;&nbsp;
+
 ## Reach Out
 
 - [Personal Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
