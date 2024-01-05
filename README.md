@@ -1,21 +1,23 @@
 <h1>👋Welcome, I'm Mac! </h1>
 
-### Business/Nuxt Enthusiast, [Incubrain](https://www.incubrain.org/) Founder
-At Incubrain we help early-stage Nuxt startups with business planning, product development, developer manpower, and coaching.
-**Join our [Discord of Nuxt founders/developers.](https://discord.gg/zSGHvNZXAa)**
+### Nuxt 3 Enthusiast & Business Nerd
+
+- 🌶️ Seasoned Nuxt developer and entrepreneurial thinker with a decade of experience in business and 4 years of crafting web applications. 
+- 💡 I thrive on product development and have a keen eye for detail, dedicating my time to analyzing existing products and strategizing on innovative improvements. 
+- 🚀 I'm on the lookout for dynamic companies seeking a tech partner who brings both coding chops and business strategy.
+
+&nbsp;&nbsp;
 
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,css,html,tailwindcss,js,ts,sass,vue,nuxtjs,supabase,postgres,vite&perline=7" /><br/><br/>
   </a>
 </div>
-
-## Contact Links
+&nbsp;&nbsp;
+## Reach Out
 
 - [Personal Linkedin](https://www.linkedin.com/in/drew-macgibbon/)
-- [Want To Collaborate?](https://www.incubrain.org/contact-collaborate)
-- [Need Nuxt Developers?](https://www.incubrain.org/contact-hire-us)
-- [Incubrain Program](https://www.incubrain.org/contact-incubation)
+- [Email](mac@incubrain.org)
 
 &nbsp;&nbsp;
 <div align="left">
@@ -24,5 +26,3 @@ At Incubrain we help early-stage Nuxt startups with business planning, product d
   </p>
 </div>
 
-&nbsp;&nbsp;
-&nbsp;&nbsp;
