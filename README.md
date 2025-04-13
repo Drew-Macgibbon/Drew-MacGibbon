@@ -1,20 +1,26 @@
-<h1>👋Hi, I'm Mac! </h1>
+<h1>Hey, I'm Mac 👋</h1>
 
-### Nuxt 3 Enthusiast & Business Nerd
+### Builder | CEO @ [Incubrain](https://github.com/incubrain) | CTO @ [AstronEra](https://astronera.org)
 
-- 🗺️ Kiwi permanently living in Pune, India.
-- 🌶️ Seasoned Nuxt developer and entrepreneurial thinker with a decade of experience in business and 4 years of crafting web applications. 
-- 💡 Product development/strategy lover with a keen eye for detail, seriously, I do this for fun! 
-- 🕹️ Fun = UFC, Cricket, Soccer, Gym, Gaming, Sci-Fi/Fantasy Shows, Nature, and coffee with good people.
-- 🔎 On the lookout for companies seeking a tech partner who brings both coding chops and business/product strategy.
+- 🧠 I build AI-native products from scratch, blending business strategy with full-stack execution.
+- 🛠️ I work primarily with **TypeScript** across a **microservices architecture** using **Docker**, **PostgreSQL** for structured data, **Milvus** for vector stores, and **Mastra** for agentic programming.
+- 🌍 I use **Nuxt** for frontend apps and integrate with all the major **AI APIs** to automate the work of 10 people.
+- 🧩 I focus on tools that people actually use — and believe a great product needs both top-down clarity and bottom-up execution.
+- 🗣️ I speak business with CEOs and architecture with CTOs — bridging the gap between vision and implementation.
 
-&nbsp;&nbsp;
+---
+
+### Companies
+
+- 🚀 [Incubrain](https://incubrain.org) — AI-native software, purpose-built for productivity.
+- 🌌 [AstronEra](https://astronera.org) — making space research, conservation, and discovery accessible to all.
+
+---
 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,css,html,tailwindcss,js,ts,sass,vue,nuxtjs,supabase,postgres,vite&perline=7" /><br/><br/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,tailwind,postgres,docker,github,html,css,vite,redis&perline=7" /><br/><br/>
 </div>
+
 
 &nbsp;&nbsp;
 
